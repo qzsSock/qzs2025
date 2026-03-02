@@ -1,0 +1,13 @@
+dependencies: \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Pods.build/Debug-iphonesimulator/ZFPlayer.build/module.modulemap \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/ZFPlayer/ZFPlayer/Classes/Core/UIViewController+ZFPlayerRotation.m \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/Target\ Support\ Files/ZFPlayer/ZFPlayer-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/ObjectiveC.modulemap \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/ZFPlayer/ZFPlayer/Classes/Core/ZFLandscapeWindow.h \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/ZFPlayer/ZFPlayer/Classes/Core/ZFLandscapeViewController.h \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/ZFPlayer/ZFPlayer/Classes/Core/ZFLandscapeRotationManager.h \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/ZFPlayer/ZFPlayer/Classes/Core/ZFOrientationObserver.h \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/ZFPlayer/ZFPlayer/Classes/Core/ZFPlayerView.h \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/ZFPlayer/ZFPlayer/Classes/Core/ZFPlayerConst.h

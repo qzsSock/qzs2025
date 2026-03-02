@@ -1,0 +1,72 @@
+Target dependency graph (26 targets)
+Target 'qzs2025' in project 'qzs2025'
+➜ Implicit dependency on target 'Pods-qzs2025' in project 'Pods' via file 'Pods_qzs2025.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'AFNetworking' in project 'Pods' via options '-framework AFNetworking' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'BRPickerView' in project 'Pods' via options '-framework BRPickerView' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'GMObjC' in project 'Pods' via options '-framework GMObjC' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'IQKeyboardManager' in project 'Pods' via options '-framework IQKeyboardManager' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'JTCalendar' in project 'Pods' via options '-framework JTCalendar' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'KSPhotoBrowser' in project 'Pods' via options '-framework KSPhotoBrowser' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'LYEmptyView' in project 'Pods' via options '-framework LYEmptyView' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'LookinServer' in project 'Pods' via options '-framework LookinServer' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'MBProgressHUD' in project 'Pods' via options '-framework MBProgressHUD' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'MJExtension' in project 'Pods' via options '-framework MJExtension' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'MJRefresh' in project 'Pods' via options '-framework MJRefresh' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'Masonry' in project 'Pods' via options '-framework Masonry' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'ReactiveObjC' in project 'Pods' via options '-framework ReactiveObjC' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SDWebImage' in project 'Pods' via options '-framework SDWebImage' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SJAttributesFactory' in project 'Pods' via options '-framework SJAttributesFactory' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'TZImagePickerController' in project 'Pods' via options '-framework TZImagePickerController' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'UITextView+Placeholder' in project 'Pods' via options '-framework UITextView_Placeholder' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'ZFPlayer' in project 'Pods' via options '-framework ZFPlayer' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-qzs2025' in project 'Pods'
+➜ Explicit dependency on target 'AFNetworking' in project 'Pods'
+➜ Explicit dependency on target 'BRPickerView' in project 'Pods'
+➜ Explicit dependency on target 'Bugly' in project 'Pods'
+➜ Explicit dependency on target 'GMObjC' in project 'Pods'
+➜ Explicit dependency on target 'GMOpenSSL' in project 'Pods'
+➜ Explicit dependency on target 'IQKeyboardManager' in project 'Pods'
+➜ Explicit dependency on target 'JTCalendar' in project 'Pods'
+➜ Explicit dependency on target 'KSPhotoBrowser' in project 'Pods'
+➜ Explicit dependency on target 'LYEmptyView' in project 'Pods'
+➜ Explicit dependency on target 'LookinServer' in project 'Pods'
+➜ Explicit dependency on target 'MBProgressHUD' in project 'Pods'
+➜ Explicit dependency on target 'MJExtension' in project 'Pods'
+➜ Explicit dependency on target 'MJRefresh' in project 'Pods'
+➜ Explicit dependency on target 'Masonry' in project 'Pods'
+➜ Explicit dependency on target 'ReactiveObjC' in project 'Pods'
+➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+➜ Explicit dependency on target 'SJAttributesFactory' in project 'Pods'
+➜ Explicit dependency on target 'TZImagePickerController' in project 'Pods'
+➜ Explicit dependency on target 'UITextView+Placeholder' in project 'Pods'
+➜ Explicit dependency on target 'ZFPlayer' in project 'Pods'
+Target 'ZFPlayer' in project 'Pods' (no dependencies)
+Target 'UITextView+Placeholder' in project 'Pods' (no dependencies)
+Target 'TZImagePickerController' in project 'Pods' (no dependencies)
+Target 'SJAttributesFactory' in project 'Pods' (no dependencies)
+Target 'ReactiveObjC' in project 'Pods' (no dependencies)
+Target 'Masonry' in project 'Pods' (no dependencies)
+Target 'MJRefresh' in project 'Pods' (no dependencies)
+Target 'MJExtension' in project 'Pods' (no dependencies)
+Target 'MBProgressHUD' in project 'Pods' (no dependencies)
+Target 'LookinServer' in project 'Pods' (no dependencies)
+Target 'LYEmptyView' in project 'Pods' (no dependencies)
+Target 'KSPhotoBrowser' in project 'Pods'
+➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+Target 'SDWebImage' in project 'Pods'
+➜ Explicit dependency on target 'SDWebImage-SDWebImage' in project 'Pods'
+Target 'SDWebImage-SDWebImage' in project 'Pods' (no dependencies)
+Target 'JTCalendar' in project 'Pods' (no dependencies)
+Target 'IQKeyboardManager' in project 'Pods'
+➜ Explicit dependency on target 'IQKeyboardManager-IQKeyboardManager' in project 'Pods'
+Target 'IQKeyboardManager-IQKeyboardManager' in project 'Pods' (no dependencies)
+Target 'GMObjC' in project 'Pods'
+➜ Explicit dependency on target 'GMObjC-GMObjC' in project 'Pods'
+➜ Explicit dependency on target 'GMOpenSSL' in project 'Pods'
+Target 'GMOpenSSL' in project 'Pods' (no dependencies)
+Target 'GMObjC-GMObjC' in project 'Pods' (no dependencies)
+Target 'Bugly' in project 'Pods' (no dependencies)
+Target 'BRPickerView' in project 'Pods'
+➜ Explicit dependency on target 'BRPickerView-BRPickerView.Privacy' in project 'Pods'
+Target 'BRPickerView-BRPickerView.Privacy' in project 'Pods' (no dependencies)
+Target 'AFNetworking' in project 'Pods' (no dependencies)

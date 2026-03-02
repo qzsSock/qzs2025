@@ -1,0 +1,13 @@
+dependencies: \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Pods.build/Debug-iphonesimulator/BRPickerView.build/module.modulemap \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/BRPickerView/BRPickerView/Deprecated/AddressPickerView/BRAddressPickerView.m \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/Target\ Support\ Files/BRPickerView/BRPickerView-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/BRPickerView/BRPickerView/Deprecated/AddressPickerView/BRAddressPickerView.h \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/BRPickerView/BRPickerView/Deprecated/Base/BRBaseView.h \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/BRPickerView/BRPickerView/Core/BRPickerAlertView.h \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/BRPickerView/BRPickerView/Core/BRPickerStyle.h \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/BRPickerView/BRPickerView/Core/BRPickerViewMacro.h \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/BRPickerView/BRPickerView/Deprecated/AddressPickerView/BRAddressModel.h \
+  /Users/qiuzishuo/Desktop/qzs2025/Pods/BRPickerView/BRPickerView/Core/NSBundle+BRPickerView.h

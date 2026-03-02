@@ -1,0 +1,31 @@
+moduledependenciestarget: \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Modules/module.modulemap \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefresh-umbrella.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.0.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.0.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.0.sdk/usr/include/ObjectiveC.modulemap \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoFooter.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshFooter.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshComponent.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshConst.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackFooter.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshHeader.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshTrailer.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoGifFooter.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoStateFooter.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshAutoNormalFooter.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackGifFooter.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackStateFooter.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshBackNormalFooter.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshGifHeader.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshStateHeader.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshNormalHeader.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshNormalTrailer.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshStateTrailer.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefresh.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/UIScrollView+MJRefresh.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/UIScrollView+MJExtension.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/UIView+MJExtension.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/MJRefreshConfig.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/NSBundle+MJRefresh.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Headers/UICollectionViewLayout+MJRefresh.h

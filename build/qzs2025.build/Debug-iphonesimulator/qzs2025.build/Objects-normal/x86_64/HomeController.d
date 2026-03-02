@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/qiuzishuo/Desktop/qzs2025/qzs2025/main/con/home/HomeController.m \
+  /Users/qiuzishuo/Desktop/qzs2025/qzs2025/PrefixHeader.pch \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJExtension/MJExtension.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/MJRefresh/MJRefresh.framework/Modules/module.modulemap \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/Masonry.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASUtilities.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/View+MASAdditions.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASConstraintMaker.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASConstraint.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASViewAttribute.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/View+MASShorthandAdditions.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/ViewController+MASAdditions.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/NSArray+MASAdditions.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/NSArray+MASShorthandAdditions.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASCompositeConstraint.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASViewConstraint.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/MASLayoutConstraint.h \
+  /Users/qiuzishuo/Desktop/qzs2025/build/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/NSLayoutConstraint+MASDebugAdditions.h \
+  /Users/qiuzishuo/Desktop/qzs2025/qzs2025/Extension/UILabel+Extension.h \
+  /Users/qiuzishuo/Desktop/qzs2025/qzs2025/Extension/UIImage+Extension.h \
+  /Users/qiuzishuo/Desktop/qzs2025/qzs2025/Extension/UIColor+Extension.h \
+  /Users/qiuzishuo/Desktop/qzs2025/qzs2025/main/con/home/HomeController.h \
+  /Users/qiuzishuo/Desktop/qzs2025/qzs2025/main/con/home/sub/testVC.h
