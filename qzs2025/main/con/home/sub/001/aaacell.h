@@ -10,7 +10,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface aaacell : UITableViewCell
-
+@property (nonatomic,strong) UILabel *top;
 @end
 
 NS_ASSUME_NONNULL_END
