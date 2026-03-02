@@ -1,5 +1,5 @@
 //
-//  aaacell.h
+//  bbbcell.h
 //  qzs2025
 //
 //  Created by qiuzishuo on 2026/3/3.
@@ -9,10 +9,8 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface aaacell : UITableViewCell
-@property (nonatomic,strong) UILabel *top;
+@interface bbbcell : UITableViewCell
 
-@property (nonatomic,strong) UILabel *top2;
 @end
 
 NS_ASSUME_NONNULL_END

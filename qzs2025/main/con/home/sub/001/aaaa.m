@@ -45,6 +45,9 @@ NS_ASSUME_NONNULL_BEGIN
 {
     aaacell*cell = [tableView dequeueReusableCellWithIdentifier:@"aaacell"];
     cell.top.text = [NSString stringWithFormat:@"%zd",indexPath.row];
+    
+    cell.top2.text = [NSString stringWithFormat:@"%zd",(indexPath.row+1)];
+
     return  cell;
 }
 @end
