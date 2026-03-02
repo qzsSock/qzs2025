@@ -24,6 +24,13 @@ NS_ASSUME_NONNULL_BEGIN
         [self.contentView addSubview:self.top];
         
         
+        self.top2 = [[UILabel alloc] init];
+        self.top2.text = @"134";
+        self.top2.textColor = [UIColor blueColor];
+        self.top2.font = [UIFont systemFontOfSize:14];
+        self.top2.backgroundColor = [UIColor redColor];
+        [self.contentView addSubview:self.top];
+        
         
     }
     
@@ -37,6 +44,12 @@ NS_ASSUME_NONNULL_BEGIN
     [self.top mas_makeConstraints:^(MASConstraintMaker *make) {
         make.left.mas_equalTo(20);
         make.top.mas_equalTo(20);
+        
+    }];
+    
+    [self.top2 mas_makeConstraints:^(MASConstraintMaker *make) {
+        make.left.mas_equalTo(20);
+        make.top.mas_equalTo(50);
         
     }];
 }
