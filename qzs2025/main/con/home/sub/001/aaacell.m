@@ -30,7 +30,7 @@ NS_ASSUME_NONNULL_BEGIN
         self.top2.textColor = [UIColor blueColor];
         self.top2.font = [UIFont systemFontOfSize:14];
         self.top2.backgroundColor = [UIColor redColor];
-        [self.contentView addSubview:self.top];
+        [self.contentView addSubview:self.top2];
         
         self.begin  = [UIButton buttonWithType:UIButtonTypeSystem];
         //        begin.frame = CGRectMake(100, 100, 200, 50);
@@ -65,8 +65,9 @@ return self;
     
     [self.begin mas_makeConstraints:^(MASConstraintMaker *make) {
         make.size.mas_equalTo(CGSizeMake(40, 20));
-        make.left.mas_equalTo(20);
+//        make.left.mas_equalTo(20);
         make.right.mas_equalTo(-20);
+        make.top.mas_equalTo(20);
 
     }];
     
