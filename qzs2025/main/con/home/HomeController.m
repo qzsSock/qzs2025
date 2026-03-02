@@ -10,7 +10,7 @@
 
 #import "HomeController.h"
 #import "testVC.h"
-
+#import "aaaa.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -43,6 +43,17 @@ NS_ASSUME_NONNULL_BEGIN
     [self.view addSubview:btn];
     [btn addTarget:self action:@selector(pushVc:) forControlEvents:UIControlEventTouchUpInside];
     
+    
+    UIButton*btn2 = [UIButton buttonWithType:UIButtonTypeCustom];
+    btn2.frame = CGRectMake(100, 400, 80, 30);
+    btn2.tag = 100;
+    [btn2 setTitle:@"push" forState:UIControlStateNormal];
+    [btn2 setTitle:@"push22" forState:UIControlStateSelected];
+    [btn2 setTitleColor:[UIColor redColor] forState:UIControlStateNormal];
+    [btn2 setTitleColor:[UIColor yellowColor] forState:UIControlStateSelected];
+    [self.view addSubview:btn2];
+    [btn2 addTarget:self action:@selector(pushVc:) forControlEvents:UIControlEventTouchUpInside];
+    
     //    self.view.backgroundColor = [UIColor grayColor];
     
     //    MyController*vc = [[MyController alloc] init];
@@ -52,10 +63,17 @@ NS_ASSUME_NONNULL_BEGIN
 
 -(void)pushVc:(UIButton*)btn
 {
+    if (btn.tag == 100) {
+        aaaa*vc = [[aaaa alloc] init];
+        vc.title = @"aaaa";
+        [self.navigationController pushViewController:vc animated:YES];
+    }else
+    {
+        testVC*vc = [[testVC alloc] init];
+        vc.title = @"ceshi";
+        [self.navigationController pushViewController:vc animated:YES];
+    }
     
-    testVC*vc = [[testVC alloc] init];
-    vc.title = @"ceshi";
-    [self.navigationController pushViewController:vc animated:YES];
 }
 
 
