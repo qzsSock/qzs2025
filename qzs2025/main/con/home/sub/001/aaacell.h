@@ -11,6 +11,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface aaacell : UITableViewCell
 @property (nonatomic,strong) UILabel *top;
+
+@property (nonatomic,strong) UIButton *begin;
+
 @end
 
 NS_ASSUME_NONNULL_END
