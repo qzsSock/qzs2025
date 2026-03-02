@@ -64,10 +64,16 @@ return self;
     
     
     [self.begin mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.size.mas_equalTo(CGSizeMake(40, 20));
-//        make.left.mas_equalTo(20);
+//        make.size.mas_equalTo(CGSizeMake(40, 20));
+        make.height.mas_equalTo(30);
         make.right.mas_equalTo(-20);
         make.top.mas_equalTo(20);
+        CGFloat w = [UIScreen mainScreen].bounds.size.width;
+        CGFloat ww  = w-40;
+        make.width.lessThanOrEqualTo(@(ww)); // 设置最大宽度为200
+
+//        [button.widthAnchor constraintLessThanOrEqualToConstant:200] // 最大宽度限制
+
 
     }];
     

@@ -45,7 +45,18 @@ NS_ASSUME_NONNULL_BEGIN
 {
     aaacell*cell = [tableView dequeueReusableCellWithIdentifier:@"aaacell"];
     cell.top.text = [NSString stringWithFormat:@"%zd",indexPath.row];
-    
+    if (indexPath.row == 0) {
+        [cell.begin setTitle:@"电机我" forState:UIStatusBarStyleDefault];
+
+    }else if(indexPath.row == 1)
+    {
+        [cell.begin setTitle:@"电机我东方红郡速度多了几分离开的设计规范考拉电极法立卡手打" forState:UIStatusBarStyleDefault];
+
+    }else
+    {
+        [cell.begin setTitle:@"电机我东方红郡速度快" forState:UIStatusBarStyleDefault];
+
+    }
     cell.top2.text = [NSString stringWithFormat:@"%zd",(indexPath.row+1)];
 
     return  cell;
